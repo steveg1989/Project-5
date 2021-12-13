@@ -15,5 +15,16 @@ server runs on another port for any reason, this is printed to the
 console when the server starts, e.g. `Listening on port 3001`.
 
 # ScreenShots #
-
+ HomePage
 <img width="621" alt="Home page- Project 5" src="https://user-images.githubusercontent.com/79769086/145896342-e9e5ae78-c100-497c-ab49-f6409edb6c93.png">
+
+ProductPage
+<img width="617" alt="Product page- Project 5" src="https://user-images.githubusercontent.com/79769086/145896517-ac98405e-5afa-45c8-82bb-be937d547090.png">
+
+CartPage
+<img width="608" alt="Cart page- Project 5" src="https://user-images.githubusercontent.com/79769086/145896573-701024a4-2956-408c-a915-79e2d84ecfcf.png">
+
+ConfirmationPage
+<img width="617" alt="Confirmation page- Project 5" src="https://user-images.githubusercontent.com/79769086/145896606-6fb09603-0dee-4e4c-b06e-3971eff216e6.png">
+
+
