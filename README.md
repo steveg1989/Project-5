@@ -22,7 +22,8 @@ ProductPage
 <img width="617" alt="Product page- Project 5" src="https://user-images.githubusercontent.com/79769086/145896517-ac98405e-5afa-45c8-82bb-be937d547090.png">
 
 CartPage
-<img width="608" alt="Cart page- Project 5" src="https://user-images.githubusercontent.com/79769086/145896573-701024a4-2956-408c-a915-79e2d84ecfcf.png">
+<img width="706" alt="Cart page- Project 5" src="https://user-images.githubusercontent.com/79769086/146694034-a884b24c-0b1f-460c-b13c-838d148da1ff.png">
+
 
 ConfirmationPage
 <img width="617" alt="Confirmation page- Project 5" src="https://user-images.githubusercontent.com/79769086/145896606-6fb09603-0dee-4e4c-b06e-3971eff216e6.png">
